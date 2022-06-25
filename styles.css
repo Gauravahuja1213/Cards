@@ -2,3 +2,16 @@
     margin-top:20px;
     margin-bottom:20px;
 }
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+  footer{
+    text-align:center;
+    color:white;
+  }
+  body{
+    background-color: #021E3B;
+  }
+  .heading{
+    color:white;
+  }
